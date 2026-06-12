@@ -1,0 +1,15 @@
+# Ignore Data
+data/raw/
+data/processed/
+*.csv
+*.xls
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore large model files (Optional, but recommended if > 100MB)
+# models/*.pkl
