@@ -24,8 +24,8 @@ Built with an interpretable **Random Forest** architecture and **Explainable AI 
 ### Bulk Processing Validation
 ![Bulk Result View](app/assets/bulk_result_view.jpg)
 
-### Executive Dashboard
-![Dashboard Analytics](app/assets/image.png)
+### Demographic Risk Heatmap (Marital Status vs. Gender)
+![Demographic Risk Heatmap](app/assets/image.png)
 
 ### Geographical Risk Hotspots
 ![District Risk Analysis](app/assets/district_risk.png)
